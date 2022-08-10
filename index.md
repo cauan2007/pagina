@@ -1,8 +1,8 @@
-# 
-# Cliníco Cauan Aguiar
+# Divogacia Aguiar
 
-Hoje 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Hoje estaremos falando sobre Diretos que temos como cidadões, como melhorias na qulidade de vida, melhores preços para os produtos, entre outros.
+ 
+  Estamos vivendo Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -35,6 +35,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cauan2007/pagina/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 # 
 
-### Support or Contact
+### Support or Contactn
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
