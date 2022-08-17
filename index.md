@@ -2,18 +2,20 @@
 
   Hoje estaremos falando sobre picapes para o campo, para o trabalho pesado ou para diversão para quem gosta de um off-road.
  
-  Estaremos falando sobre a cavalaria, Torque, Traçado, e a Manutenção.
+  Estaremos falando sobre a cavalaria, Torque e o  Traçado.
 
-### Fiat Touro 
+# Fiat Toro 
+#### Cavalaria: São 174 com etanol e 186 com a gasolina.
+#### Torque: São 23,5 kgfm e 24,9 kgfm a 4.000 RPM.
+#### Traçado: 4x2 e 4x4.
 
-CavalariaMarkdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Chevrolet S10
+#### Cavalaria: Ela forneçe 206 com o motor 2.5L Ecotec.
+#### Torque: São 51
+#### Traçado:
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
