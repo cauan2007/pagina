@@ -1,4 +1,4 @@
-#  Top 10 Picapes Para 2022
+#  Top 4 Picapes Para 2022
 
   Hoje estaremos falando sobre picapes para o campo, para o trabalho pesado ou para diversão para quem gosta de um off-road.
  
@@ -20,26 +20,8 @@
 #### Torque: Ela fornece 42,8 kgfm (manual) e 50,9 (automático).
 #### Traçado: 4x2 Traeira e 4x4. 
 
-# Mitsubishi
-- List
+# Mitsubishi l200
+#### Cavalaria: São 190 cavalos de potência.
+#### Torque: Possui 43,9 kgfm.
+#### Traçado: 4x2 traseira 4x4.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-# #### Traçado:
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting#### Traçado:-syntax).
-
-### Jekyll Themes
-
-# 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cauan2007/pagina/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-# 
-
-### Support or Contactn
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
